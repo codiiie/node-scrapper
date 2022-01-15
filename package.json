@@ -1,0 +1,17 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "to parse page data",
+  "main": "s.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "local-devices": "^3.2.0",
+    "puppeteer": "^13.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miltons",
+  "license": "ISC"
+}
